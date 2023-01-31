@@ -11,6 +11,11 @@
 <li>Rails 7.0.4</li>
 </ul>
 
+## Usage
+```
+ruby bobsburgs.rb
+```
+
 
 ![image](https://user-images.githubusercontent.com/116182313/215864670-0c0d5a47-6d10-40ff-b2a2-2bcf2a4d2d47.png)
 
