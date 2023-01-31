@@ -1,3 +1,5 @@
+#README
+
 <h1 align="center">Bob's Burgers Terminal App</h1>
 
 
