@@ -12,8 +12,6 @@
 </ul>
 
 
-(<img width="859" alt="Screen Shot 2022-11-30 at 4 58 37 PM" src="https://user-images.githubusercontent.com/116182313/204917808-08f9652d-0841-4638-b86f-ac0d7cc24cb2.png">)
-
 ![image](https://user-images.githubusercontent.com/116182313/215864670-0c0d5a47-6d10-40ff-b2a2-2bcf2a4d2d47.png)
 
 
